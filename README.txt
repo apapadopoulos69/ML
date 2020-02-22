@@ -2,7 +2,7 @@ Steps to run:
 1) Create shortcut of "Winmine__XP.exe"
 2) On "Winmine__XP.exe - Shortcut" right click -> Properties -> Shortcut tab -> on Run select 'Maximized'
 3) Double click on shortcut (should open as a maximized window)
-4) Open project's location on cmd and run the script as "python3 MinesweeperQAgent.py", will load the latest Q-table at
+4) Open project's location on cmd and run the script as "python3 MinesweeperQA.py", will load the latest Q-table at
 392.000 games and will not play randomly (run the cmd on bottom right of the screen or on a separate monitor because the
 script clicks to set the game's window active).
 WHILE script is running:
